@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+#container {
+  text-align: left;
+  margin: 10vh auto 10vh auto;
+  width: 1000px;
+}
+
+.img {
+  float: left;
+  margin-right: 60px;
+}
+
+.article {
+  background-color: white;
+  height: 711px;
+  border-radius: 15px;
+}
+
+img {
+  border-top-left-radius : 15px;
+  border-bottom-left-radius :15px;
+}
+
+.perfume {
+  padding-top: 50px;
+  color: rgb(163, 161, 158);
+  font-size: 2rem;
+}
+
+.heading {
+  padding-top: 30px;
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.text {
+  padding-top: 30px;
+  padding-right: 50px;
+  font-size: 20px;
+  color: gray;
+  text-align: justify;
+  font-family: serif;
+  word-spacing: 1px;
+}
+
+.price {
+  padding-top: 30px;
+}
+
+.s149 {
+  margin-top: 70px;
+  font-size: 60px;
+  color: rgb(83, 119, 83);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  margin-right: 40px;
+}
+
+.s169 {
+  font-size: 20px;
+  text-decoration: line-through;
+  color: gray;
+}
+
+
+
+.btn {
+  margin-top: 60px;
+  text-align: center;
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  background: rgb(83, 119, 83);
+  padding: 20px 130px 20px 130px;
+  border: none;
+}
+
+.btn:hover {
+  background: #17591b;
+  text-decoration: none;
+}
+
+#button {
+  margin-top: 30px;  
+  padding-bottom: 30px;    
+}
